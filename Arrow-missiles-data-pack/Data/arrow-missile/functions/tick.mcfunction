@@ -1,1 +1,1 @@
-execute at @e[type=#minecraft:arrows,nbt={LeftOwner:1b}] if entity @e[distance=..3,type=!#minecraft:arrows,type=!minecraft:item,type=!minecraft:item_frame,type=!minecraft:armor]
+execute at @e[type=#minecraft:arrows,nbt={LeftOwner:1b}] if entity @e[distance=..3,type=!#minecraft:arrows,type=!minecraft:item,type=!minecraft:item_frame,type=!minecraft:armor_stand,type=!minecraft:glow_item_frame,type=!minecraft:area_effect_cloud] run summon minecraft:firework_rocket ~ ~ ~ 
