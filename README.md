@@ -1,8 +1,6 @@
 # arrow_missile
 Makes arrows have a proximity fuse
 
-Currently wip
-
 Made for a map me and my friend made 
 For the legacy console battle mini game recreation 
 By Emmie: https://github.com/DBTDerpbox
