@@ -3,6 +3,8 @@ Makes arrows have a proximity fuse
 
 Currently wip
 
-Made for my custom map on the legacy edition battle mini games recreation 
-Join at: minigames.derpbox.xyz
+Made for a map me and my friend made 
+For the legacy console battle mini game recreation 
+By Emmie: https://github.com/DBTDerpbox
 Discord: https://discord.gg/eYnJaNBu7Q
+Join at: minigames.derpbox.xyz
