@@ -8,3 +8,5 @@ For the legacy console battle mini game recreation
 By Emmie: https://github.com/DBTDerpbox
 Discord: https://discord.gg/eYnJaNBu7Q
 Join at: minigames.derpbox.xyz
+
+Note map not out yet
