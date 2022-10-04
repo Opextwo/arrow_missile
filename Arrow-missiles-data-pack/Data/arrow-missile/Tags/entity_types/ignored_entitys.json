@@ -5,6 +5,7 @@
         "minecraft:item",
         "#minecraft:arrows",
         "minecraft:item_frame",
-        "minecraft:glow_item_frame"
+        "minecraft:glow_item_frame",
+        "minecraft:area_effect_cloud"
     ]
 }
