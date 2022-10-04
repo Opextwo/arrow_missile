@@ -8,3 +8,5 @@ Discord: https://discord.gg/eYnJaNBu7Q
 Join at: minigames.derpbox.xyz
 
 Note map not out yet
+
+thanks to Emmie this datapack actualy runs!
