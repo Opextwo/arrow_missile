@@ -8,6 +8,7 @@
         "minecraft:glow_item_frame",
         "minecraft:area_effect_cloud",
         "minecraft:item",
-        "minecraft:experience_orb"
+        "minecraft:experience_orb",
+        "minecart:firework_rocket"
     ]
 }
